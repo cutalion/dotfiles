@@ -1,0 +1,5 @@
+.envrc
+*.swp
+*.swo
+*.sql
+TODO.local
