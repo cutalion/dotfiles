@@ -24,3 +24,5 @@
 [user]
   name = Alexander Glushkov
   email = cutalion@gmail.com
+[init]
+	templatedir = ~/.git_template
