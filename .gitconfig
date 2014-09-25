@@ -26,3 +26,5 @@
   email = cutalion@gmail.com
 [init]
 	templatedir = ~/.git_template
+[github]
+	user = cutalion
